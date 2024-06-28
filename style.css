@@ -1,0 +1,75 @@
+h1,h2,p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+
+img{width: 90%;;}
+
+.psss{
+    display: flex;
+    justify-content:center;
+}
+
+
+
+.imagen{ 
+     width: 200px; 
+     height: 150px;
+     margin: 0 30px;
+}
+
+
+
+.creador{
+     display: flex;
+     justify-content: center;
+}
+
+
+.imagen2{ 
+     width: 300px;
+     height: 190px;
+
+
+}
+
+
+
+
+body {background-image:url(https://p4.wallpaperbetter.com/wallpaper/846/493/160/playstation-download-hd-wallpaper-preview.jpg);}
+
+
+h1,h2,p,h4{background-color: aqua;}
+ul,ol{background-color: coral;}
+h1,h2,h4{background-color: crimson;}
+
+p,h1,h2{text-align: left;}
+
+
+
+div{margin-left: auto; margin-right: auto;}
+
+
+h1{font-style:oblique;}
+h2{font-style:italic;}
+p{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+ol{font-weight:bold;}
+
+
+h2,h1,p,ul,ol,label,h4,figcaption{padding: 15px;}
+
+
+ul,ol{max-width: 80px;}
+
+
+hr{border-color: red;
+   background-color: black; 
+   height: 5px;
+}
+
+
+
+
+
+
+
+
