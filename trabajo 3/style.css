@@ -1,0 +1,22 @@
+h1,h2,p,article{text-align:center;}
+ #flavor{text-align: left;}
+ #class {text-align: right;}      
+#articulo  {background-color: burlywood;}
+    
+body   {background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg)}
+     
+#articulo p{display: inline-block; width: 50%;}
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
